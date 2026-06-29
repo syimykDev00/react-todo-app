@@ -26,11 +26,6 @@ https://react-todo-app-eight-olive.vercel.app/
 
 ---
 
-## 📸 Preview
-
-![Preview](./preview.png)
-
----
 
 ## 📌 About Project
 This project was built to improve React and TypeScript skills, component structure understanding, and frontend development practices.
